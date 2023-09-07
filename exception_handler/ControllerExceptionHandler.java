@@ -1,6 +1,5 @@
 package com.exception_handler;
 
-
 import java.util.Date;
 import com.exception_custom.*;
 
@@ -48,4 +47,5 @@ public class ControllerExceptionHandler {
 	    
 	    return message;
 	  }
+	
 }
