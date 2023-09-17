@@ -12,7 +12,7 @@ public class ErrorMessage {
       this.statusCode = statusCode;
       this.timestamp = timestamp;
       this.message = message;
-    this.description = description;
+      this.description = description;
   }
 
   public int getStatusCode() {
